@@ -1,6 +1,8 @@
 # wiki-fun-fact
 Ever wanted to learn more about a topic while doing your day-to-day programming? Do you like Wikipedia? Do you also use a Linux-based operating system? Well, wiki-fun-fact may just be for you! 
 
+![script demo image](demo-image.png)
+
 ### Want to run the application?
 
 1. Download the prerequisites for viewing images (optional, but required if you want to run the script without the `--no-image` flag.) Your system is required to have any one of the following programs: https://github.com/atanunq/viu, https://sw.kovidgoyal.net/kitty/, or https://w3m.sourceforge.net/.
