@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "wiki-fun-fact"
+version = "0.1.0"
+description = "Command line utility to generate fun facts from Wikipedia."
+authors = ["Samuel Morris <dodobird181@gmail.com>"]
+license = "GNU GENERAL PUBLIC LICENSE v3"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.32.3"
+nuitka = "^2.5.9"
+pyfiglet = "^1.0.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

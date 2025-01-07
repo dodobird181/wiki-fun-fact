@@ -1,0 +1,1 @@
+python3 -m nuitka wiki_fun_fact.py
